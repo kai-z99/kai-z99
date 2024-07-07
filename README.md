@@ -1,6 +1,6 @@
-# Hi there, welcome to my profile!
+# 👋 Hi there, welcome to my profile! 👋
 
-## About me 
+## About me ✌️
 
 🏙 I study computer science @ UBC Vancouver
 
