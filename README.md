@@ -2,7 +2,7 @@
 
 ## About me ✌️
 
-🏙 I study computer science @ UBC Vancouver.
+🏙 I'm studying computer science @ UBC Vancouver.
 
 💻 I like making games with C/C++.
 
