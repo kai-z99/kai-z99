@@ -7,3 +7,9 @@
 💻 I like making games with C/C++.
 
 ⚡ I'm interested in optimizing and making things fast!
+
+## Skills
+
+### Languages
+
+![C](https://img.shields.io/badge/language-C-blue.svg)
