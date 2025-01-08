@@ -21,5 +21,7 @@
 ### Libraries
 
 ![RayLib](https://img.shields.io/badge/RAYLIB-F5F5F5.svg?style=for-the-badge&logo=raylib&logoColor=black)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![box2d](https://img.shields.io/badge/box2d-0092EB.svg?style=for-the-badge&logo=box2d&logoColor=black)
+
  
