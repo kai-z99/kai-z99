@@ -6,7 +6,9 @@
 
 💻 I like making games with C/C++.
 
-⚡ I'm interested in optimizing and making things fast!
+🌟 I'm currently working on computer graphics!
+
+![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV4OTE0bmoycWdxdXAzZmZwNWkzZnAzbWtveXBxenNpYzUyZGV5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQ66BEf602Xzbanp6W/giphy.gif)
 
 ## Skills
 
@@ -24,5 +26,5 @@
 ![RayLib](https://img.shields.io/badge/RAYLIB-F5F5F5.svg?style=for-the-badge&logo=raylib&logoColor=black)
 ![box2d](https://img.shields.io/badge/box2d-0092EB.svg?style=for-the-badge&logo=box2d&logoColor=black)
 
-![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV4OTE0bmoycWdxdXAzZmZwNWkzZnAzbWtveXBxenNpYzUyZGV5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQ66BEf602Xzbanp6W/giphy.gif)
+
  
