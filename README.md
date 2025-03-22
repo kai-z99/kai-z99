@@ -8,7 +8,7 @@
 
 🌟 I'm currently working on computer graphics!
 
-![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV4OTE0bmoycWdxdXAzZmZwNWkzZnAzbWtveXBxenNpYzUyZGV5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQ66BEf602Xzbanp6W/giphy.gif)
+![image description](koopaEngineDemo1Trim3.gif)
 
 ## Skills
 
