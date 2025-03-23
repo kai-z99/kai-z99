@@ -8,7 +8,7 @@
 
 🌟 I'm currently working on computer graphics!
 
-![image description](koopaEngineDemo1Trim3.gif)
+![image description](https://github.com/kai-z99/kai-z99/blob/main/koopaEngineDemo1Trim3.gif)
 
 ## Skills
 
