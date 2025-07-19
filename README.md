@@ -4,9 +4,7 @@
 
 🏙 I'm studying computer science @ UBC Vancouver.
 
-💻 I like making games with C/C++.
-
-🌟 I'm currently working on computer graphics!
+💻 I like computer graphics.
 
 ![demo2](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoPBR2.gif)
 ![demo3](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoSSS.gif)
