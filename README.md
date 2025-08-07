@@ -6,6 +6,8 @@
 
 💻 I like computer graphics.
 
+Blog: https://kai-z99.github.io/blog/index.html
+
 ![demo2](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoPBR2.gif)
 ![demo3](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoSSS.gif)
 <img width="1230" height="1110" alt="rayShowCUDA15" src="https://github.com/user-attachments/assets/e6068963-4093-4794-9ffb-411674fa012e" />
