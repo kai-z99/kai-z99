@@ -12,6 +12,8 @@ Blog: https://kai-z99.github.io/blog/index.html
 ![demo3](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoSSS.gif)
 <img width="1230" height="1110" alt="rayShowCUDA15" src="https://github.com/user-attachments/assets/e6068963-4093-4794-9ffb-411674fa012e" />
 <img width="1918" height="1107" alt="backlight10000spp-10 0--17lm" src="https://github.com/user-attachments/assets/e7db8fcf-5ae2-4a9f-b29d-f1cdaf0d2265" />
+<img width="1918" height="1110" alt="image" src="https://github.com/user-attachments/assets/700ac804-fdc2-4d68-905e-f415f7ee8e21" />
+
 
 
 
