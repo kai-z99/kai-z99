@@ -10,7 +10,7 @@ Blog: https://kai-z99.github.io/blog/index.html
 
 ![demo2](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoPBR2.gif)
 ![demo3](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoSSS.gif)
-<img width="1918" height="1111" alt="sssAssorted10000spp" src="https://github.com/user-attachments/assets/33884b6e-df11-4a92-8c2e-337b24f5b193" />
+<img width="1918" height="1106" alt="sssAssorted10000spp-geoN" src="https://github.com/user-attachments/assets/f461d0cf-0df4-4ba9-bf3a-8e998ecc4601" />
 <img width="1918" height="1110" alt="image" src="https://github.com/user-attachments/assets/700ac804-fdc2-4d68-905e-f415f7ee8e21" />
 <img width="1230" height="1110" alt="rayShowCUDA15" src="https://github.com/user-attachments/assets/e6068963-4093-4794-9ffb-411674fa012e" />
 
