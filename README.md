@@ -31,8 +31,9 @@ Blog: https://kai-z99.github.io/blog/index.html
 ### Libraries
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![RayLib](https://img.shields.io/badge/RAYLIB-F5F5F5.svg?style=for-the-badge&logo=raylib&logoColor=black)
-![box2d](https://img.shields.io/badge/box2d-0092EB.svg?style=for-the-badge&logo=box2d&logoColor=black)
+![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 
  
