@@ -1,5 +1,7 @@
 # 👋 Hi there, welcome to my profile! 👋
 
+I'm currently studying Computer Science at The University of British Columbia. My interest is in computer graphics, both realtime and offline.
+
 ### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
