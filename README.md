@@ -18,8 +18,10 @@ I'm currently studying Computer Science at The University of British Columbia. M
 
 Blog: https://kai-z99.github.io/blog/index.html
 
-![demo2](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoPBR2.gif)
-![demo3](https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoSSS.gif)
+<p align="center">
+  <img src="https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoPBR2.gif" width="48%" />
+  <img src="https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoSSS.gif" width="48%" />
+</p>
 <img width="1918" height="1111" alt="sssAssorted50000spp" src="https://github.com/user-attachments/assets/f6ca05fd-fd27-43d9-8a6f-82dc7cffd46e" />
 <img width="1918" height="1110" alt="image" src="https://github.com/user-attachments/assets/700ac804-fdc2-4d68-905e-f415f7ee8e21" />
 <img width="1230" height="1110" alt="bunnySSS1" src="https://github.com/user-attachments/assets/128f9b2a-4e4f-4168-8117-e28e4513924e" />
