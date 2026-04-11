@@ -19,7 +19,7 @@ I'm currently studying Computer Science at The University of British Columbia. M
 Blog: https://kai-z99.github.io/blog/index.html
 
 <p align="center">
-  <img src="https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoPBR2.gif" width="48%" />
+  <img src="monkey.gif" width="48%" />
   <img src="https://github.com/kai-z99/KoopaEngine/blob/master/demo/koopaEngineDemoSSS.gif" width="48%" />
 </p>
 <img width="1918" height="1111" alt="sssAssorted50000spp" src="https://github.com/user-attachments/assets/f6ca05fd-fd27-43d9-8a6f-82dc7cffd46e" />
